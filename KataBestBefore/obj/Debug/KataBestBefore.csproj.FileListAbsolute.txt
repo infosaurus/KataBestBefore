@@ -1,0 +1,6 @@
+C:\Users\Guillaume\Documents\Visual Studio 2008\Projects\KataBestBefore\KataBestBefore\KataBestBefore\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Guillaume\Documents\Visual Studio 2008\Projects\KataBestBefore\KataBestBefore\KataBestBefore\bin\Debug\KataBestBefore.dll
+C:\Users\Guillaume\Documents\Visual Studio 2008\Projects\KataBestBefore\KataBestBefore\KataBestBefore\bin\Debug\KataBestBefore.pdb
+C:\Users\Guillaume\Documents\Visual Studio 2008\Projects\KataBestBefore\KataBestBefore\KataBestBefore\bin\Debug\nunit.framework.dll
+C:\Users\Guillaume\Documents\Visual Studio 2008\Projects\KataBestBefore\KataBestBefore\KataBestBefore\obj\Debug\KataBestBefore.dll
+C:\Users\Guillaume\Documents\Visual Studio 2008\Projects\KataBestBefore\KataBestBefore\KataBestBefore\obj\Debug\KataBestBefore.pdb
